@@ -153,6 +153,7 @@ public class PlayerController : MonoBehaviour
             }
         }
        
+        //if the 
         else if (Mathf.Abs(rb.velocity.x) > 2f)
         {
             //Moving
